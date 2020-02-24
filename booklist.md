@@ -41,7 +41,7 @@ head first系列丛书口碑都是不错的，入门书可以考虑下这个系�
 
 ---
 ---
-![Image text](./img/深入分析JavaWeb技术内幕.jpg)    
+![Image text](./img/深入分析JavaWeb技术内幕.jpg)  
 (https://book.douban.com/subject/25953851/)  
 ###深入分析Java Web技术内幕  
 学生时期看的，对本人最有帮助的是class文件的结构这一章的内容，这些底层的知识的确实给那时候的我眼前一亮的感觉。  
